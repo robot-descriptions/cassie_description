@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <package>
   <name>cassie_description</name>
-  <version>0.0.0</version>
+  <version>1.0.0</version>
   <description>Cassie model description</description>
 
-  <!-- One maintainer tag required, multiple allowed, one person per tag --> 
-  <!-- Example:  -->
-  <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
+  <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <maintainer email="jreher@caltech.edu">Jenna Reher</maintainer>
+  <maintainer email="stephane.caron@normalesup.org">Stéphane Caron</maintainer>
 
   <!-- One license tag required, multiple allowed, one license per tag -->
   <!-- Commonly used license strings: -->
@@ -15,25 +14,4 @@
   <license>MIT</license>
 
   <buildtool_depend>catkin</buildtool_depend>
-
-  <build_depend>roscpp</build_depend>
-  <build_depend>rospy</build_depend>
-  <build_depend>roslib</build_depend>
-  <build_depend>eigen_utilities</build_depend>
-  <build_depend>RBDL</build_depend>
-  <build_depend>cassie_common_toolbox</build_depend>
-
-  <run_depend>roscpp</run_depend>
-  <run_depend>rospy</run_depend>
-  <run_depend>roslib</run_depend>
-  <run_depend>eigen_utilities</run_depend>
-  <run_depend>RBDL</run_depend>
-  <run_depend>rbdl_urdfreader</run_depend>
-  <run_depend>cassie_common_toolbox</run_depend>
-
-  <!-- The export tag contains other, unspecified, tags -->
-  <export>
-    <!-- Other tools can request additional information be placed here -->
-
-  </export>
 </package>
