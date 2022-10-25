@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## [1.0.0] - 2022/10/25
 
 ### Added
 
@@ -19,6 +19,7 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 
 - Face normals in two STL files
+- Simplify hip meshes for loading in PyBullet
 
 ## Original repository
 
