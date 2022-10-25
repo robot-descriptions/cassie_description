@@ -1,8 +1,10 @@
 # Cassie Description
 
+<img src="https://user-images.githubusercontent.com/1189580/197808850-ed5c3be9-aea7-49eb-b7f8-f8e4514c53aa.png" align="right" width=300>
+
 URDF description for Cassie, a biped robot manufactured by Agility Robotics.
 
-This repository is a fork from [jpreher/cassie\_description](https://github.com/jpreher/cassie_description) focussing on the URDF description itself. Head over to the original repository for MATLAB and C++ model files. Remember to [cite](#related-literature) the original authors if you are using this description in your academic work.
+This repository is a fork from [jpreher/cassie\_description](https://github.com/jpreher/cassie_description) focussing on the URDF description itself. Head over to the original repository for additional MATLAB and C++ model files. Remember to [cite](#related-literature) the original authors if you are using this description in your academic work.
 
 ## Model and URDF Assumptions
 
